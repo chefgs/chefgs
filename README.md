@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi developers, 👋
+- I'm Saravanan from India 
+- I work as an Architect in Wipro Digital 
+- Ask me about,
+  - Anything related to Infra as Code (Docker, Chef, Ansible, Terraform, AWS Cloudformation, Azure Resource Manager)
+  - Google Assistant Actions Development
+  - Alexa Skills Development
+  - DevOps and Automated self-healing systems
+- Would like to be technical and career mentor for people
+
 
 <!--
 **chefgs/chefgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
