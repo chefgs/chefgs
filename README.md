@@ -1,6 +1,6 @@
 ### Hi developers, 👋
 - I'm Saravanan from India 
-- I work as an Architect in Wipro Digital 
+- Cloud DevOps Architect in Wipro Digital 
 - Ask me about,
   - Anything related to Infra as Code (Docker, Chef, Ansible, Terraform, AWS Cloudformation, Azure Resource Manager)
   - Google Assistant Actions Development
