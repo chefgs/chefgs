@@ -1,13 +1,17 @@
 ### Hi developers, 👋
-- This is Saravanan from India 
-- Cloud DevOps Architect in Wipro Digital 
-- Ask me about,
-  - Anything related to Infra as Code (Docker, Chef, Ansible, Terraform, AWS Cloudformation, Azure Resource Manager)
+- I'm Saravanan from India 
+- 🔭 Currently working as Cloud DevOps Architect
+- 💬 Ask me about ,
+  - Anything related to Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
   - Google Assistant Actions Development
   - Alexa Skills Development
   - DevOps and Automated self-healing systems
 - Would like to be technical and career mentor for people
-
+- 👯 Looking to collaborate on SRE and ML programming
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
+  - [DEV Community](https://dev.to/chefgs)
+  - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
 
 <!--
 **chefgs/chefgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
