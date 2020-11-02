@@ -10,7 +10,8 @@
 - 👯 Looking to collaborate on SRE and ML programming
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
-  - [DEV Community](https://dev.to/chefgs)[![Saravanan G's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/chefgs){ width=50% }
+  - [DEV Community](https://dev.to/chefgs)
+  - [![Saravanan G's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg){ width=50% }](https://dev.to/chefgs)
   - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
 
 <!--
