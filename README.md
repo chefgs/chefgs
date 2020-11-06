@@ -11,7 +11,7 @@
 - 📫 How to reach me:
   - [<img src="https://github.com/chefgs/repo_images/blob/master/lin.PNG" alt="dev logo" width="20" style="vertical-align:bottom"/> LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
   - [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev logo" width="20" style="vertical-align:bottom"/> DEV Community](https://dev.to/chefgs)
-  - [<img src="https://github.com/chefgs/repo_images/blob/master/sof.PNG" alt="dev logo" width="20" style="vertical-align:bottom"/>Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
+  - [<img src="https://github.com/chefgs/repo_images/blob/master/sof.PNG" alt="dev logo" width="20" style="vertical-align:bottom"/> Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
 
 <!--
   - [![Saravanan G's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg) ](https://dev.to/chefgs)
