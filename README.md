@@ -13,7 +13,7 @@
   - [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev logo" width="20" style="vertical-align:bottom"/> DEV Community](https://dev.to/chefgs)
   - [<img src="https://github.com/chefgs/repo_images/blob/master/sof.PNG" alt="dev logo" width="20" style="vertical-align:bottom"/> Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
 
-[![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs)](https://github.com/anuraghazra/github-readme-stats)
+[![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=radical)]
 
 <!--
   - [![Saravanan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg) ](https://dev.to/chefgs)
