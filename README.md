@@ -15,8 +15,11 @@
 
 ![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=10)](https://github.com/chefgs/github-readme-stats)
+
 <!--
-  - [![Saravanan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg) ](https://dev.to/chefgs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&layout=compact)
+[![Saravanan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/chefgs)
 **chefgs/chefgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
