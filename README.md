@@ -1,6 +1,6 @@
 ### Hello Everyone, 👋
 - I'm Saravanan from India 
-- 🔭 Currently working as Cloud DevOps Architect
+- 🔭 Working as Cloud DevOps Architect
 - 💬 Ask me about...
   - Anything related to Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
   - Google Assistant Actions Development
