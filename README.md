@@ -7,7 +7,7 @@
   - Alexa Skills Development
   - DevOps and Automated self-healing systems
 - Would like to be a technical and career mentor for people
-- 👯 Looking to know more and collaborate on SRE and ML programming
+- 👯 Looking to contribute for Infra provisioning code repos in Github and collaborate on SRE
 - 📫 Checkout the Public and Community Profiles to reach me...
   - [<img src="https://github.com/chefgs/repo_images/blob/master/lin.PNG" alt="dev logo" height="20" width="20" style="vertical-align:bottom"/> LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
   - [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev logo" width="19" style="vertical-align:bottom"/> DEV Community](https://dev.to/chefgs)
