@@ -1,5 +1,4 @@
-### Hello Everyone, 👋
-- I'm Saravanan from India 
+### Hello Everyone, 👋 I'm Saravanan!!
 - 🔭 Working as Cloud DevOps Architect
 - 💬 Ask me about...
   - Automation using Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
