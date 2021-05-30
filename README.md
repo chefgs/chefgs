@@ -15,7 +15,9 @@
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail logo" width="19" style="vertical-align:bottom"/> Email](mailto:g.gsaravanan@gmail.com)
 - Feel free to star the repo, if you like the work
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs) ![Followers](https://img.shields.io/github/followers/chefgs)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs) 
+
+![Followers](https://img.shields.io/github/followers/chefgs)
 
 ![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=dark)
 
