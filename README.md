@@ -6,7 +6,6 @@
   - Google Assistant Actions Development
   - Alexa Skills Development
   - DevOps and Automated self-healing systems
-- Would like to be a technical and career mentor for people
 - Looking to contribute for Infra provisioning code repos in Github and like to collaborate on SRE
 - 📫 Checkout the footprint on Public and Community Profiles to reach me...
   - [<img src="https://github.com/chefgs/repo_images/blob/master/lin.PNG" alt="dev logo" height="20" width="20" style="vertical-align:bottom"/> LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
