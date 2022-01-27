@@ -1,6 +1,6 @@
 ## Hello Everyone, 👋 I'm Saravanan!!
 - 🔭 Architect @ [Infracloud](https://github.com/infracloudio)
-- Checkout my Personal Website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a>
+
 - 💬 Ask me about...
   - Automation using Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
   - E2E Pipeline setup using, Jenkins, GitHub Actions and Azure Pipeline
@@ -12,6 +12,7 @@
   - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
   - [DEV Community](https://dev.to/chefgs)
   - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
+- Checkout my Personal Website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a>
 
 - Feel free to star the repo, if you like the work
 
