@@ -18,7 +18,7 @@
 
 ![Followers](https://img.shields.io/github/followers/chefgs)
 
-[![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs)](https://github.com/chefgs/github-readme-stats)
+![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
