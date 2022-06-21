@@ -18,7 +18,7 @@
 
 ![Followers](https://img.shields.io/github/followers/chefgs)
 
-![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=dark)
+[![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs)](https://github.com/chefgs/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
@@ -26,6 +26,8 @@
  [![Stack Overflow Badge](https://img.shields.io/badge/-Saravanan%20G-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/4923204/saravanan-g)
  
 <!--
+![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
+
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail logo" width="19" style="vertical-align:bottom"/> Email](mailto:g.gsaravanan@gmail.com)
 
 https://img.shields.io/github/stars/chefgs?logo=Stars
