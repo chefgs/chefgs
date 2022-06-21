@@ -1,13 +1,11 @@
 ## Hello Everyone, 👋 I'm Saravanan!!
-- 🔭 Architect @ [Infracloud](https://github.com/infracloudio)
-
-- 💬 Ask me about...
+- 💬 Focusing on...
   - Automation using Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
   - E2E Pipeline setup using, Jenkins, GitHub Actions and Azure Pipeline
   - Google Assistant Actions Development
   - Alexa Skills Development
   - DevOps and Automated self-healing systems
-- Looking to contribute for Infra provisioning code repos in Github and like to collaborate on SRE
+- Looking to contribute for Infra automation code repos and interested in SRE stuff
 - 📫 Checkout the footprint on Public and Community Profiles to reach me...
   - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
   - [DEV Community](https://dev.to/chefgs)
