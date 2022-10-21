@@ -25,6 +25,10 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
+- Hecktoberfest 2022 Contribution Badges
+  
+![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
+
  
 <!--
 ![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
