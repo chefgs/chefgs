@@ -6,7 +6,6 @@
   - Google Assistant Actions Development
   - Alexa Skills Development
   - DevOps and Automated self-healing systems
-- :mag_right: Looking to contribute for Infra automation code repos and interested in SRE stuff :bulb: 
 - 📫 Checkout the footprint on Public and Community Profiles to reach me...
   - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
   - [DEV Community](https://dev.to/chefgs)
