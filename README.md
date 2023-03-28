@@ -24,12 +24,13 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
+
+ 
+<!--
 - Hecktoberfest 2022 Contribution Badges
   
 ![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
 
- 
-<!--
 ![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail logo" width="19" style="vertical-align:bottom"/> Email](mailto:g.gsaravanan@gmail.com)
