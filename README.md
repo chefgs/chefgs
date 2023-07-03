@@ -11,7 +11,7 @@
   - [DEV Community](https://dev.to/chefgs)
   - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
 - :mailbox: g.gsaravanan@gmail.com
-- :earth_asia: Checkout Personal Website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a> for my work
+- :earth_asia: Checkout the portfolio website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a> for my work & contribution details..
 - Feel free to add :star: to the repo, if you like the work
 - Social Footprints: [![Twitter Badge](https://img.shields.io/badge/-@saransid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saransid)](https://twitter.com/saransid) [![Linkedin Badge](https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919) [![Medium Badge](https://img.shields.io/badge/-@g.gsaravanan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@g.gsaravanan/)](https://g-gsaravanan.medium.com/)
  [![Stack Overflow Badge](https://img.shields.io/badge/-Saravanan%20G-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/4923204/saravanan-g)
