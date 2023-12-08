@@ -19,15 +19,19 @@
 
 - GitHub Profile Stats :point_down:
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs)    ![Followers](https://img.shields.io/github/followers/chefgs)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=chefgs&countColor=%23263759)](https://visitorbadge.io/status?path=chefgs)  
 
-  ![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
+![Followers](https://img.shields.io/github/followers/chefgs)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
+![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
 
  
 <!--
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs)  
+ 
 - Hecktoberfest 2022 Contribution Badges
   
 ![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
