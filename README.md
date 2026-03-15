@@ -1,59 +1,93 @@
-## Hello Everyone, 👋 I'm Saravanan!!
-- Founder of [CloudEngine Labs](https://github.com/cloudengine-labs) - A Technology Startup Company based out of India
-- :computer: Polyglot Programmer, Technology blogger, DevOps Evangelist, Cloud Automation Specialist and DevOps Architect 
-- 💬 Focusing on... 
-  - Automation using Infra as Code (Docker, Chef, Ansible, Terraform, Kubernetes, AWS Cloudformation, Azure Resource Manager)
-  - E2E Pipeline setup using, Jenkins, GitHub Actions and Azure Pipeline
-  - Google Assistant Actions Development
-  - Alexa Skills Development
-  - DevOps and Automated self-healing systems
-- 📫 Checkout the footprint on Public and Community Profiles to reach me...
-  - [LinkedIn](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)
-  - [DEV Community](https://dev.to/chefgs)
-  - [Stack Overflow](https://stackoverflow.com/users/4923204/saravanan-g?tab=profile)
-- :mailbox: g.gsaravanan@gmail.com
-- :earth_asia: Checkout the portfolio website <a href=https://www.gsaravanan.dev/ target="_blank">gsaravanan.dev</a> for my work & contribution details..
-- Feel free to add :star: to the repo, if you like the work
-- Social Footprints: [![Twitter Badge](https://img.shields.io/badge/-@saransid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saransid)](https://twitter.com/saransid) [![Linkedin Badge](https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/)](https://www.linkedin.com/in/saravanan-gnanaguru-1941a919) [![Medium Badge](https://img.shields.io/badge/-@g.gsaravanan-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@g.gsaravanan/)](https://g-gsaravanan.medium.com/)
- [![Stack Overflow Badge](https://img.shields.io/badge/-Saravanan%20G-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/4923204/saravanan-g)
+## 👋 Hello Everyone, I'm Saravanan G!
 
-- GitHub Profile Stats :point_down:
+<p align="left">
+  <a href="https://www.gsaravanan.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gsaravanan.dev-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saravanan-gnanaguru-1941a919/" target="_blank"><img src="https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/saransid" target="_blank"><img src="https://img.shields.io/badge/-@saransid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
+  <a href="https://g-gsaravanan.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-@g.gsaravanan-03a57a?style=flat-square&labelColor=000000&logo=Medium" /></a>
+  <a href="https://dev.to/chefgs" target="_blank"><img src="https://img.shields.io/badge/-chefgs-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/4923204/saravanan-g" target="_blank"><img src="https://img.shields.io/badge/-Saravanan%20G-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white" /></a>
+</p>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=chefgs&countColor=%23263759)](https://visitorbadge.io/status?path=chefgs)  
+### 🏢 About Me
 
+- 🚀 Founder of [CloudEngine Labs](https://github.com/cloudengine-labs) — a Technology Startup based in India, focused on **Process-First DevSecOps & AI Accelerators**
+- 💻 Polyglot Programmer | DevSecOps Architect | Platform Engineer | Cloud Automation Specialist
+- 🤖 Building AI-driven DevOps automation platforms using LLMs (OpenAI, Gemini, Claude)
+- ✍️ Technical Blogger — writing on DevOps, Cloud, and AI topics
+- 🌐 Portfolio: <a href="https://www.gsaravanan.dev/" target="_blank">gsaravanan.dev</a>
+- 📧 g.gsaravanan@gmail.com
+
+---
+
+### 💬 Currently Focusing On
+
+- 🧠 **AI-Driven Automation** — Integrating LLMs into DevOps workflows; building [DevOps-OS](https://github.com/cloudengine-labs/devops_os) to automate CI/CD, Kubernetes, and SRE configurations via conversational AI
+- 🏗️ **Platform Engineering** — Internal Developer Portals, self-service DevOps platforms, and SDLC automation
+- 🔒 **DevSecOps** — End-to-end secure CI/CD pipelines with GitHub Actions, Jenkins, and Azure Pipelines
+- ☁️ **Multi-Cloud IaC** — Terraform, HCP (HashiCorp Cloud Platform), AWS, Azure, GCP automation
+- 🐳 **Containers & Orchestration** — Kubernetes, Docker, Helm, and GitOps workflows
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=flat-square&logo=chef&logoColor=white)
+
+**AI & GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF3B6B?style=flat-square&logo=heart&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [DevOps-OS](https://github.com/cloudengine-labs/devops_os) | AI-powered CLI + chatbot to scaffold CI/CD pipelines, Kubernetes configs, and SRE dashboards in seconds |
+| [Terraform Repo](https://github.com/chefgs/terraform_repo) | Terraform samples for major cloud providers and custom provider development |
+| [GitHub Action Workflows](https://github.com/chefgs/githubaction_workflows) | Reusable GitHub Actions workflow templates |
+| [HCP Demos](https://github.com/chefgs/hcp) | HashiCorp Cloud Platform product demos and workflows |
+| [Gemini Demos](https://github.com/chefgs/gemini_demos) | Google Gemini AI integration samples |
+| [Self-Hosted Runners](https://github.com/chefgs/create_selfhosted_runners) | Scripts to create GitHub Actions self-hosted runners on AWS, Azure, GCP |
+
+---
+
+### 📊 GitHub Profile Stats
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=chefgs&countColor=%23263759)](https://visitorbadge.io/status?path=chefgs)
 ![Followers](https://img.shields.io/github/followers/chefgs)
 
 ![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
 
+---
 
- 
-<!--
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=chefgs)  
- 
-- Hecktoberfest 2022 Contribution Badges
-  
-![@Saravanan's Hacktoberfest board](https://user-images.githubusercontent.com/7605658/197239886-e7908edd-3a77-4573-86dd-47132eca47ff.png)
-
-![Saravanan's github stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
-
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" alt="gmail logo" width="19" style="vertical-align:bottom"/> Email](mailto:g.gsaravanan@gmail.com)
-
-https://img.shields.io/github/stars/chefgs?logo=Stars
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&layout=compact)
-[![Saravanan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/chefgs)
-**chefgs/chefgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 Contributions collabration
--->
+*Feel free to ⭐ any repo you find helpful!*
