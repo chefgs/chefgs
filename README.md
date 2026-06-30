@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://www.gsaravanan.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gsaravanan.dev-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.gsaravanan.com/" target="_blank"><img src="https://img.shields.io/badge/Site-gsaravanan.com-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/saravanan-gnanaguru/" target="_blank"><img src="https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saravanan-gnanaguru/" target="_blank"><img src="https://img.shields.io/badge/-Saravanan%20Gnanaguru-blue?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
   <a href="https://twitter.com/saransid" target="_blank"><img src="https://img.shields.io/badge/-@saransid-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" /></a>
   <a href="https://g-gsaravanan.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-@g.gsaravanan-03a57a?style=flat-square&labelColor=000000&logo=Medium" /></a>
   <a href="https://dev.to/chefgs" target="_blank"><img src="https://img.shields.io/badge/-chefgs-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" /></a>
@@ -87,7 +87,7 @@
 | Project | Description |
 |---------|-------------|
 | [DevOps-OS](https://github.com/cloudengine-labs/devops_os) | AI-powered CLI + MCP server to scaffold CI/CD pipelines, Kubernetes configs, and SRE dashboards in seconds |
-| [Artifact Cleaner](https://github.com/chefgs/artifact-cleaner) | Rust-based tool to clean up GitHub Actions workflow artifacts |
+| [Artifact Cleaner](https://github.com/chefgs/artifact-cleaner) | Rust-based tool to clean up stale GitHub Actions workflow artifacts, reducing storage costs and improving CI hygiene |
 | [SDLC Learning App](https://github.com/chefgs/sdlc_learning_app) | Interactive app teaching the Process-First SDLC philosophy |
 | [DevOps Cloud AI Sessions](https://github.com/chefgs/devops-cloud-ai-sessions) | Website hosting Saravanan's DevOps, Cloud & AI sessions and talks |
 | [Terraform Repo](https://github.com/chefgs/terraform_repo) | Terraform samples for major cloud providers and custom provider development |
