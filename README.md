@@ -102,9 +102,11 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=chefgs&countColor=%23263759)](https://visitorbadge.io/status?path=chefgs)
 ![Followers](https://img.shields.io/github/followers/chefgs)
 
-![Saravanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefgs&show_icons=true&theme=default)
+
+[![Saravanan's GitHub stats](https://github-stats-extended.vercel.app/api?username=chefgs)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
+
 
 ---
 
