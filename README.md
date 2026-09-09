@@ -105,7 +105,13 @@
 
 [![Saravanan's GitHub stats](https://github-stats-extended.vercel.app/api?username=chefgs)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefgs&langs_count=5&theme=dark)
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=chefgs&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chefgs&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
 
 
 ---
